@@ -6,6 +6,7 @@ public class Ratio {
 	protected int denominator;
 
 	public Ratio(int top, int bottom) {
+		// TODO: add parameter validation code
 		numerator = top;
 		denominator = bottom;
 	}
